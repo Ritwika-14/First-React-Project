@@ -3,13 +3,13 @@ import React from "react"
 export default function Main() {
     return (
         <main>
-            <h1 className="main--title">Fun facts about React</h1>
+            <h1 className="main--title">Some Fun Facts</h1>
             <ul className="main--facts">
-                <li>Was first released in 2013</li>
-                <li>Was originally created by Jordan Walke</li>
-                <li>Has well over 100K stars on GitHub</li>
-                <li>Is maintained by Facebook</li>
-                <li>Powers thousands of enterprise apps, including mobile apps</li>
+                <li>The Eiffel Tower Can Grow Taller in the Summer</li>
+                <li>The Great Wall of China Is Not Visible from the Moon with the Naked Eye</li>
+                <li>A Group of Flamingos Is Called a "Flamboyance"</li>
+                <li>Octopuses Have Three Hearts</li>
+                <li>The World's Largest Desert Is Antarctica</li>
             </ul>
         </main>
     )
